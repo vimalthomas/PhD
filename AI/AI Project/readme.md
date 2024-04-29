@@ -1,11 +1,24 @@
-Detection of Sign Language Alphabets Using Regularized CNN Model 
+
 
 This project contains five databaricks notebooks.
+
+
+
 00_AI_Project_Data_Profiling - for data profiling
+
 01_AI_Project_CNN_Regularized_Model - for model definition
+
 02_AI_Project_CNN_Base_Model_Training_And_Testing - for model training and testing
+
 03_AI_Project_Execution_Using_CNN_Regularization_Model - for data validation
+
 04_Final_Sign_Language_Detector - for the final project execution
+
+
+
+Note: Each notebook has an output notebook in the html format that includes the runtime output including the results. Downloade the html files and open it using any browser to view the final results.
+
+
 
 The data profiling notebook shows the MNIST data in the image format. 
 
